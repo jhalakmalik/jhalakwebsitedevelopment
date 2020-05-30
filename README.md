@@ -18,5 +18,5 @@ Mockup illustrations are present in the Assignment documents.
 <b>Solution Links:</b> <br>
 - [Module 2 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-2-solution/index.html) <br>
 - [Module 3 Solution](https://jhalakmalik.github.io/jhalakwebsitedevelopment/module_3%20assignment/index.html) <br>
-- [Module 4 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-4-solution/index.html) <br>
+- [Module 4 Solution](http://jhalakmalik.github.io/jhalakwebsitedevelopment/module_4%20assignment/index.html) <br>
 - [Module 5 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-5-solution/index.html) <br>
