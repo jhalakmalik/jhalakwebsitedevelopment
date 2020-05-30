@@ -1,4 +1,4 @@
-# Coursera-WebDev-JHALAK MALIK-Assignments
+# Coursera-WebDevepment-JHALAK MALIK-Assignments
 
 ###HTML, CSS, JavaScript for Web Developers
 ####Johns Hopkins University
