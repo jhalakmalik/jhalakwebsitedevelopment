@@ -16,7 +16,7 @@ Mockup illustrations are present in the Assignment documents.
 <br>
 
 <b>Solution Links:</b> <br>
-- [Module 2 Solution](http://jhalakmalik.github.io/jhalakwebsitedevelopment/assignmentmodule-2/index.html) <br>
+- [Module 2 Solution](http://jhalakmalik.github.io/jhalakwebsitedevelopment/assignmentmodule-2) <br>
 - [Module 3 Solution](https://jhalakmalik.github.io/jhalakwebsitedevelopment/module_3%20assignment/index.html) <br>
 - [Module 4 Solution](http://jhalakmalik.github.io/jhalakwebsitedevelopment/module_4%20assignment/index.html) <br>
 - [Module 5 Solution](http://jhalakmalik.github.io/jhalakwebsitedevelopment/module_5%20assignment/index.html) <br>
